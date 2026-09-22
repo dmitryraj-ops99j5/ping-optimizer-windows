@@ -39,4 +39,4 @@ To keep checking in the background and updating routes as network conditions flu
 
     python ping_opt.py --config targets.json --interval 300
 
-<!-- updated: 2026-09-21 -->
+<!-- updated: 2026-09-22 -->
